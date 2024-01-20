@@ -1,0 +1,14 @@
+*{
+    background-color: aquamarine;
+}
+#Storme{
+    /* border-width: 3px;
+    border-style: dotted;
+    border-color: rgb(226, 153, 43); */
+    border: 5px solid red;
+    border-radius: 10%;
+    /*if the box is square then putting border radius to 50% will give us a square*/
+    /* padding-left: 30px; */
+    
+}
+
